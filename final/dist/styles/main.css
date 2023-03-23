@@ -1175,7 +1175,7 @@ p {
     width: 10rem;
     bottom: 0;
     right: 0;
-    z-index: 0;
+    z-index: -1;
 }
 
 .bottom-left {
@@ -1183,7 +1183,7 @@ p {
     width: 20rem;
     bottom: 0;
     left: 0;
-    z-index: 0;
+    z-index: -1;
 }
 
 /* PAYMENT PAGE */
@@ -1751,7 +1751,6 @@ a.desktop-link:active {
 
     .bottom-right {
         width: 15rem;
-        
     }
 
     .bottom-left {

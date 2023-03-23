@@ -1125,7 +1125,7 @@ p {
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    margin: 1rem 0rem 0rem 0rem;
+    margin: 1rem 0rem 10rem 0rem;
 }
 
 .login-bar {
